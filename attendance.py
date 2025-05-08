@@ -7,7 +7,7 @@ import configparser
 import random
 import pytz
 from threading import Thread
-
+# hiiiiiiiiiiiii
 def start_attendance_scheduler(db):
     config = configparser.ConfigParser()
     config.read('config.ini')
